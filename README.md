@@ -9,7 +9,7 @@
  
   <img align="center" alt="Logo-Java" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Logo-Kotlin" height="30"width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png">
-  <img align="center" alt="Logo-Android" height="50" width="50" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png">
+  <img align="center" alt="Logo-Android-" height="50" width="50" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png">
   <img align="center" alt="Logo-Spring" height="32" width="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="Logo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
