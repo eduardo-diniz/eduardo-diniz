@@ -3,7 +3,7 @@
   <a href="https://github.com/eduardo-diniz">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=eduardo-diniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-BR"/>
   <p><br><p\>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-diniz&layout=compact&langs_count=7&theme=dracula&locale=pt-BR"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-diniz&count_private=true&layout=compact&langs_count=7&theme=dracula&locale=pt-BR"/>
 </div>
 <div style="display: inline_block"><br>
  
